@@ -41,7 +41,7 @@
 
 <h5 align="left">Next is the second page "Lifestyle"</h5>
 <img width="100%" height="auto" src="./8.jpg" />
-<h5 align="left">The “Lifestyle”  page,  page summarizes data on the depression rate of students based on various lifestyle factors. The breakdown is as follows:</h5>
+<h5 align="left">The “Lifestyle”  page,  page summarizes data on the depression rate of students based on various lifestyle factors. with details on dimensions related as follows:</h5>
 <h5 align="left">1. Student and Depression Rate by Age
 The upper left graph shows the total number of students in each age group (Bar) compared to the incidence rate of depression (Line).
 It can be seen that the younger group (aged 15-20 years) has the highest rate of depression, which is 73.60%, followed by the older age group.</h5>
@@ -62,6 +62,9 @@ The group that works while studying has a very high depression rate at 90.32%.</
 The graph on the lower right shows the types of eating behaviors (Dietary Habits) such as Unhealthy, Moderate, and Healthy.
 It can be observed that the group with Unhealthy eating behaviors has the highest depression rate at 70.75%, but the group with healthy eating behaviors has a depression rate at 45.37%.</h5>
 <img width="50%" height="auto" src="./13.jpg" />
-<h5 align="left">In summary, This page highlights the relationship between college student lifestyle and depression rates, Sleep Duration, Overwork or Overstudy, and Dietary Habits, which appear to have an impact on depression rates.</h5>
+<h5 align="left">In summary, This page highlights the relationship between student lifestyle and depression rates, Sleep Duration, Overwork or Overstudy, and Dietary Habits, which appear to have an impact on depression rates.</h5>
 
 
+<h5 align="left">Next is the third page "Academic"</h5>
+<img width="100%" height="auto" src="./14.jpg" />
+<h5 align="left">This “Academic” page, page presents data and depression rates among students based on educational factors, with details on dimensions related as follows:</h5>
