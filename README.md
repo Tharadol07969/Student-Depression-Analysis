@@ -16,7 +16,7 @@
 
 <h3 align="left">2. I open Power BI Desktop and load the dataset to inspect and clean the data for making the report.</h3>
 <img width="100%" height="auto" src="./1.jpg" />
-<h5 align="left">First, The id column is a primary key and it does not have duplicates, outliers, or errors. So I don't have anything to do in this column.</h5>
+<h5 align="left">First, The id column is a primary key and it does not have duplicates, outliers, or errors. So I don't have to do anything in this column.</h5>
 <h5 align="left">In the next step, I explore the other columns to check for missing values or errors. And I found the error in the column financial stress.</h5>
 <img width="25%" height="auto" src="./2.jpg" />
 <h5 align="left">So I removed the error from the table. Now my table does not have any missing values or errors.</h5>
