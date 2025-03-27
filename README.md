@@ -113,6 +113,6 @@ you can see students who have more financial stress are likely to have a higher 
 However, for students who have a family history of mental illness, I think the difference in this factor does not affect the incidence of depression.</h5>
 
 
-<h5 align="left">And this is the final page "city"</h5>
+<h5 align="left">And this is the final page "City"</h5>
 <img width="100%" height="auto" src="./22.jpg" />
 <h5 align="left">This "City" page, the page presents the city ranked by depression rate and Trends about lifestyle in the city you can filter by clicking on the table at the left bottom to see details about each city. You can download my pbix file to see more about details.</h5>
