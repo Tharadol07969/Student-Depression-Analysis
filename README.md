@@ -37,3 +37,31 @@
 <h5 align="left">Scroll down and you can see the distribution of student age ranges, and the pie chart and donut chart on the right show the distribution by Gender and Degree level.</h5>
 <h5 align="left">The table and map below show which cities have the highest depression rates and are ranked by depression rate.</h5>
 <h5 align="left">In summary, This page shows that there are a total of 27,844 students, and of these, more than 16,000 (approximately 58.55%) are in the depressed group. And show that Ahmedabad city has the highest depression rate.</h5>
+
+
+<h5 align="left">Next is the second page "Lifestyle"</h5>
+<img width="100%" height="auto" src="./8.jpg" />
+<h5 align="left">The “Lifestyle”  page,  page summarizes data on the depression rate of students based on various lifestyle factors. The breakdown is as follows:</h5>
+<h5 align="left">1. Student and Depression Rate by Age
+The upper left graph shows the total number of students in each age group (Bar) compared to the incidence rate of depression (Line).
+It can be seen that the younger group (aged 15-20 years) has the highest rate of depression, which is 73.60%, followed by the older age group.</h5>
+<img width="50%" height="auto" src="./9.jpg" />
+<h5 align="left">2. Total Student and Depression Rate by Work/Study Hours
+The lower left graph shows the total number of students (Bar) by the number of work/study hours per day. The Line shows the depression rate in each hour range.
+It can be seen that the more work/study hours, the higher the depression rate tends to be. The group with 0 working/study hours has the lowest depression rate at 35.50%, while the group with 12 working/study hours has a depression rate at 68.36%.</h5>
+<img width="50%" height="auto" src="./10.jpg" />
+<h5 align="left">3. Student and Depression Rate by Sleep Duration
+The upper right graph is divided by sleep duration.
+It can be seen that the group that slept less than 5 hours per day had the highest depression rate at 64.53%, and the group that slept more than 8 hours had a depression rate at 50.91%.</h5>
+<img width="50%" height="auto" src="./11.jpg" />
+<h5 align="left">4. Student and Depression Rate by Only Study or Work while Studying
+The middle right graph shows a comparison between students who work while studying and those who do not work.
+The group that works while studying has a very high depression rate at 90.32%.</h5>
+<img width="50%" height="auto" src="./12.jpg" />
+<h5 align="left">5. Total Student and Depression Rate by Dietary Habits
+The graph on the lower right shows the types of eating behaviors (Dietary Habits) such as Unhealthy, Moderate, and Healthy.
+It can be observed that the group with Unhealthy eating behaviors has the highest depression rate at 70.75%, but the group with healthy eating behaviors has a depression rate at 45.37%.</h5>
+<img width="50%" height="auto" src="./13.jpg" />
+<h5 align="left">In summary, This page highlights the relationship between college student lifestyle and depression rates, Sleep Duration, Overwork or Overstudy, and Dietary Habits, which appear to have an impact on depression rates.</h5>
+
+
