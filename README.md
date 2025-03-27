@@ -30,8 +30,8 @@
 
 
 <h3 align="left">3. Time to analysis about student depression and visualization.</h3>
-<h5 align="left">Here this is my result</h5>
-<h5 align="left">This is the first page "Overview"</h5>
+<h3 align="left">Here this is my result</h3>
+<h3 align="left">This is the first page "Overview"</h3>
 <img width="100%" height="auto" src="./7.jpg" />
 <h5 align="left">On this page, at the top, you can see the total number of students in the sample, students who are currently depressed, and the depression rate.</h5>
 <h5 align="left">Scroll down and you can see the distribution of student age ranges, and the pie chart and donut chart on the right show the distribution by Gender and Degree level.</h5>
@@ -39,7 +39,7 @@
 <h5 align="left">In summary, This page shows that there are a total of 27,844 students, and of these, more than 16,000 (approximately 58.55%) are in the depressed group. And show that Ahmedabad city has the highest depression rate.</h5>
 
 
-<h5 align="left">Next is the second page "Lifestyle"</h5>
+<h3 align="left">Next is the second page "Lifestyle"</h3>
 <img width="100%" height="auto" src="./8.jpg" />
 <h5 align="left">The “Lifestyle”  page,  page summarizes data on the depression rate of students based on various lifestyle factors. with details on dimensions related as follows:</h5>
 <h5 align="left">1. Student and Depression Rate by Age
@@ -65,7 +65,7 @@ It can be observed that the group with Unhealthy eating behaviors has the highes
 <h5 align="left">In summary, This page highlights the relationship between student lifestyle and depression rates, Sleep Duration, Overwork or Overstudy, and Dietary Habits, which appear to have an impact on depression rates.</h5>
 
 
-<h5 align="left">Next is the third page "Academic"</h5>
+<h3 align="left">Next is the third page "Academic"</h3>
 <img width="100%" height="auto" src="./14.jpg" />
 <h5 align="left">This “Academic” page, page presents data and depression rates among students based on educational factors, with details on dimensions related as follows:</h5>
 <h5 align="left">1. Total Student and Depression Rate by Degree</h5>
@@ -106,13 +106,13 @@ Study satisfaction is a clear factor: low satisfaction means a high likelihood o
 Higher pressure in school can also lead to higher rates of depression.</h5>
 
 
-<h5 align="left">Next is the fourth page "Stress"</h5>
+<h3 align="left">Next is the fourth page "Stress"</h3>
 <img width="100%" height="auto" src="./21.jpg" />
 <h5 align="left">This “Stress” page, page presents data and depression rates among students based on stress factors and additional factors followed by financial stress, family history of mental illness, and suicidal thoughts.
 you can see students who have more financial stress are likely to have a higher depression rate and those who have suicidal thoughts also have a higher depression rate.
 However, for students who have a family history of mental illness, I think the difference in this factor does not affect the incidence of depression.</h5>
 
 
-<h5 align="left">And this is the final page "City"</h5>
+<h3 align="left">And this is the final page "City"</h3>
 <img width="100%" height="auto" src="./22.jpg" />
 <h5 align="left">This "City" page, the page presents the city ranked by depression rate and Trends about lifestyle in the city you can filter by clicking on the table at the left bottom to see details about each city. You can download my pbix file to see more about details.</h5>
