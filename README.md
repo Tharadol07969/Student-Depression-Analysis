@@ -115,4 +115,4 @@ However, for students who have a family history of mental illness, I think the d
 
 <h3 align="left">And this is the final page "City"</h3>
 <img width="100%" height="auto" src="./22.jpg" />
-<h5 align="left">This "City" page, the page presents the city ranked by depression rate and Trends about lifestyle in the city you can filter by clicking on the table at the left bottom to see details about each city. You can download my pbix file to see more about details.</h5>
+<h5 align="left">This "City" page, the page presents the city ranked by depression rate and Trends about lifestyle in the city you can filter by clicking on the table at the left bottom to see details about each city. You can download my pbix file to see more about details. Thank you for watching.</h5>
