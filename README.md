@@ -104,3 +104,15 @@ It can be seen that the trend is that low academic pressure has a low depression
 <h5 align="left">In summary, This page shows the link between educational factors and depression rates, finding that:
 Study satisfaction is a clear factor: low satisfaction means a high likelihood of depression.
 Higher pressure in school can also lead to higher rates of depression.</h5>
+
+
+<h5 align="left">Next is the fourth page "Stress"</h5>
+<img width="100%" height="auto" src="./21.jpg" />
+<h5 align="left">This “Stress” page, page presents data and depression rates among students based on stress factors and additional factors followed by financial stress, family history of mental illness, and suicidal thoughts.
+you can see students who have more financial stress are likely to have a higher depression rate and those who have suicidal thoughts also have a higher depression rate.
+However, for students who have a family history of mental illness, I think the difference in this factor does not affect the incidence of depression.</h5>
+
+
+<h5 align="left">And this is the final page "city"</h5>
+<img width="100%" height="auto" src="./22.jpg" />
+<h5 align="left">This "City" page, the page presents the city ranked by depression rate and Trends about lifestyle in the city you can filter by clicking on the table at the left bottom to see details about each city. You can download my pbix file to see more about details.</h5>
