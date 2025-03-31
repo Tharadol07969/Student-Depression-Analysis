@@ -28,7 +28,7 @@ I loaded the dataset into Power BI Desktop to inspect and clean the data:
 I conducted an analysis of student depression and created visualizations of the results.
 
 ### Overview Page
-
+<img width="100%" height="auto" src="./1.jpg" />
 This page provides an overview:
 
 - Total number of students in the sample, students who are currently depressed, and the depression rate
@@ -37,7 +37,7 @@ This page provides an overview:
 - Table and map showing cities with the highest depression rates
 
 ### Lifestyle Page
-
+<img width="100%" height="auto" src="./2.jpg" />
 This page summarizes data on student depression rates based on various lifestyle factors:
 
 - Depression rate by age group
@@ -47,7 +47,7 @@ This page summarizes data on student depression rates based on various lifestyle
 - Depression rate by dietary habits
 
 ### Academic Page
-
+<img width="100%" height="auto" src="./3.jpg" />
 This page presents data and depression rates among students based on educational factors:
 
 - Depression rate by degree
@@ -57,7 +57,7 @@ This page presents data and depression rates among students based on educational
 - Depression rate by academic pressure
 
 ### Stress Page
-
+<img width="100%" height="auto" src="./4.jpg" />
 This page presents data and depression rates among students based on stress factors:
 
 - Depression rate by financial stress
@@ -65,5 +65,5 @@ This page presents data and depression rates among students based on stress fact
 - Depression rate among students with suicidal thoughts
 
 ### City Page
-
+<img width="100%" height="auto" src="./5.jpg" />
 This page presents cities ranked by depression rate and trends about lifestyle in each city. You can filter by clicking on the table at the bottom left to see details.
