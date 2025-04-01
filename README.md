@@ -1,5 +1,21 @@
 # 📊 Depression Analysis in Students
 
+## 📑 Table of Contents
+1. [Introduction](#-introduction)
+2. [Dataset Overview](#-dataset-overview)
+3. [Data Cleaning Process](#-data-cleaning-process)
+4. [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
+5. [Visualization & Insights](#-visualization--insights)
+    1. [Overview](#1️⃣-overview)
+    2. [Lifestyle & Well-being](#2️⃣-lifestyle--well-being)
+    3. [Academic Factors](#3️⃣-academic-factors)
+    4. [Stress Factors](#4️⃣-stress-factors)
+    5. [City-wise Trends](#5️⃣-city-wise-trends)
+6. [Key Findings & Conclusion](#-key-findings--conclusion)
+7. [How to Use This Project](#-how-to-use-this-project)
+8. [Future Work & Improvements](#-future-work--improvements)
+9. [References](#-references)
+
 ## 📌 Introduction
 Depression among students has become a growing concern in today's academic environment. This project aims to analyze student depression patterns using a dataset from Kaggle and provide insights through data visualization in Power BI. By leveraging Power Query for data cleaning and Power BI for analysis, this project uncovers key factors contributing to student depression and offers data-driven insights to support mental health awareness initiatives.
 
@@ -34,23 +50,28 @@ The data cleaning process was conducted using **Power Query**:
 - Depression rate is **58.55%**.
 - Breakdown by **gender, degree level, and age**.
 - A **table and map** display cities with the highest depression rates.
+![Overview Screenshot](screenshots/overview_page.jpg)
 
 ### 2️⃣ Lifestyle & Well-being
 - Students with **long work/study hours**, **less sleep**, and **unhealthy dietary habits** have a **higher depression rate**.
 - Those who balance both **work and study** also show a higher likelihood of depression.
+![Lifestyle Screenshot](screenshots/lifestyle_page.jpg)
 
 ### 3️⃣ Academic Factors
 - Students in **Class 12** have the **highest depression rate**.
 - **Low study satisfaction** and **high academic pressure** significantly correlate with depression.
 - **CGPA and gender** were not major contributors to depression.
+![Academic Screenshot](screenshots/academic_page.jpg)
 
 ### 4️⃣ Stress Factors
 - **High financial stress** and **suicidal thoughts** are strongly linked to depression.
 - However, **family history of mental health issues** was not a major predictor of depression in this dataset.
+![Stress Screenshot](screenshots/stress_page.jpg)
 
 ### 5️⃣ City-wise Trends
 - The dashboard displays **total students, students diagnosed with depression, and depression rates by city**.
 - It highlights **lifestyle trends in different cities**.
+![City Screenshot](screenshots/city_page.jpg)
 
 ## 📌 Key Findings & Conclusion
 The analysis identified the following key factors contributing to depression among students:
@@ -76,5 +97,3 @@ The analysis identified the following key factors contributing to depression amo
 
 ## 🔗 References
 - [Kaggle Dataset](https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset)
-
-
