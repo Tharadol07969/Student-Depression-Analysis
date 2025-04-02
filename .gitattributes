@@ -1,2 +1,2 @@
-*.pq linguist-detectable
-*.m linguist-detectable
+*.pq linguist-language=M
+*.m linguist-language=M
